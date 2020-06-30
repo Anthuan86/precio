@@ -1,28 +1,14 @@
 {
-  "peliculas": [
+  "precio": [
     {
       "id": 1,
-      "nombre": "El sexto sentido",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama"
+      "nombre": "0.09",
     }
   ],
-  "clasificaciones": [
+  "otro": [
     {
       "nombre": "Drama",
       "id": 1
-    },
-    {
-      "nombre": "Comedia",
-      "id": 2
-    },
-    {
-      "nombre": "Documental",
-      "id": 3
-    },
-    {
-      "nombre": "Acción",
-      "id": 4
-    }
+    }    
   ]
 }
