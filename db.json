@@ -2,12 +2,12 @@
   "precio": [
     {
       "id": 1,
-      "nombre": "0.09"
+      "nombre": "0.10"
     }
   ],
   "otro": [
     {
-      "nombre": "Drama",
+      "nombre": "Energía",
       "id": 1
     }    
   ]
